@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Validate Login</string>
+    <string name="logo_kominfo">Logo Kominfo</string>
+    <string name="proyek_2">Proyek 2</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="alamat_tinggal">Alamat Tinggal</string>
+    <string name="simpan">SIMPAN</string>
+    <string name="log_out">Log Out</string>
+</resources>
